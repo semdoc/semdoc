@@ -1,4 +1,4 @@
-![logo_black](https://user-images.githubusercontent.com/3531345/139572939-10e65cc0-660d-4e0e-a7b9-6b61fa23109e.png)
+[]center]![logo_black](https://user-images.githubusercontent.com/3531345/139572939-10e65cc0-660d-4e0e-a7b9-6b61fa23109e.png)
 
 <!--
 **semdoc/semdoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=semdoc)](https://github.com/anuraghazra/github-readme-stats)
-
+[]/center]
